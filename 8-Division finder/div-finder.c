@@ -8,7 +8,7 @@ int main(){
     printf("Type your district name: ");
     scanf("%s", input);
 
-
+    
 
     return 0;
 }
